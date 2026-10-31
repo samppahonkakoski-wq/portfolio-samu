@@ -1,1 +1,1 @@
-Contrast enhaHistogram warping was a project work from Digital Image Processing course. This was a pair project, and the code was created by me. The report was a yield of the group collaboration.
+Contrast enhancement by Histogram warping was a project work from Digital Image Processing course. This was a pair project, and the code was created by me. The report was a yield of the group collaboration.
